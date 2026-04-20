@@ -1,0 +1,76 @@
+{
+    "tables": {
+        "german_credit": {
+            "columns": {
+                "checking_account_status": {
+                    "sdtype": "categorical"
+                },
+                "duration_months": {
+                    "sdtype": "numerical"
+                },
+                "credit_history": {
+                    "sdtype": "categorical"
+                },
+                "purpose": {
+                    "sdtype": "categorical"
+                },
+                "credit_amount": {
+                    "sdtype": "numerical"
+                },
+                "savings_account": {
+                    "sdtype": "categorical"
+                },
+                "employment_duration": {
+                    "sdtype": "categorical"
+                },
+                "installment_rate": {
+                    "sdtype": "numerical"
+                },
+                "sex": {
+                    "sdtype": "categorical"
+                },
+                "other_debtors": {
+                    "sdtype": "categorical"
+                },
+                "residence_duration": {
+                    "sdtype": "numerical"
+                },
+                "property": {
+                    "sdtype": "categorical"
+                },
+                "age": {
+                    "sdtype": "numerical"
+                },
+                "other_installment_plans": {
+                    "sdtype": "categorical"
+                },
+                "housing": {
+                    "sdtype": "categorical"
+                },
+                "existing_credits": {
+                    "sdtype": "numerical"
+                },
+                "job": {
+                    "sdtype": "categorical"
+                },
+                "num_dependents": {
+                    "sdtype": "numerical"
+                },
+                "telephone": {
+                    "sdtype": "categorical"
+                },
+                "foreign_worker": {
+                    "sdtype": "categorical"
+                },
+                "target": {
+                    "sdtype": "categorical"
+                },
+                "relationship status": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}

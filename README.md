@@ -1,5 +1,6 @@
 # thesis-
 All the notebooks and thesis material to be shared between me and Manel
+CTGAN Config notebook is not updated and the latest one can be found on Google Drive
 
 RQs
 Main RQ: How do CTGAN parameter configurations affect the fairness-utility tradeoff in synthetic financial data generation? 
